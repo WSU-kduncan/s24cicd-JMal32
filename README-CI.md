@@ -1,6 +1,6 @@
 * README for documentation
 
-**CI Project Overview
+** CI Project Overview
 
 *I created the github repo and grabbed the `site.tar.gz` file and added a directory labeled
 `website` and put all of the contents of `site.tar.gz` in that directory.
