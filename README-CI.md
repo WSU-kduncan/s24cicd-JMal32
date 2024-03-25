@@ -12,4 +12,4 @@
 
 * I am running Linux already, so I just needed to install `Docker` in my CLI and everything was peachy.
 * To build the image from my `Dockerfile` I used the following command:
-	* docker build -t mytestimage .
+	* `docker build -t mytestimage .`
