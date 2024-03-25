@@ -13,3 +13,7 @@
 * I am running Linux already, so I just needed to install `Docker` in my CLI and everything was peachy.
 * To build the image from my `Dockerfile` I used the following command:
 	* `docker build -t mytestimage .`
+* To run the container after building from the image, I used the following command:
+	* `docker run -d -p 80:80 mytestimage`
+* After ensuring the docker container is up and running with the `nginx` hosting the webserver, I just went into my browswer and entered:
+	* `localhost:80`
